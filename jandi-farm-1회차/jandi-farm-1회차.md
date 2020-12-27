@@ -15,11 +15,11 @@
 
 #### 회고록
 
-* 🌱 ShimJaewook
-* 🌱 mijip0320
-* 🌱 shoon2430
-* 🌱 keunwooo
-* 🌱 dalsomin
-* 🌱 souvenir718
-* 🌱 hyeyoon0808
-* 🌱 lebcoco
+* 🌱 [ShimJaewook](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-1회차/회고록/ShimJaewook.md)  
+* 🌱 [mijip0320](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-1회차/회고록/mijip0320.md)
+* 🌱 [shoon2430]((https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-1회차/회고록/shoon2430.md))
+* 🌱 [keunwooo](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-1회차/회고록/keunwooo.md)
+* 🌱 [dalsomin](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-1회차/회고록/dalsomin.md)
+* 🌱 [souvenir718](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-1회차/회고록/souvenir718.md)
+* 🌱 [hyeyoon0808](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-1회차/회고록/hyeyoon0808.md)
+* 🌱 [lebcoco](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-1회차/회고록/lebcoco.md)
