@@ -24,7 +24,7 @@
 #### 회고록
 
 * 🌱 [ShimJaewook](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/ShimJaewook.md)
-* 🌱 [mijip0320](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/mijip0320.mdd)
+* 🌱 [mijip0320](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/mijip0320.md)
 * 🌱 [shoon2430](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/shoon2430.md)
 * 🌱 [keunwooo](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/keunwooo.md)
 * 🌱 [dalsomin](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/dalsomin.md)
