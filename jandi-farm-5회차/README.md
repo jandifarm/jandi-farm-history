@@ -31,4 +31,4 @@
 * 🌱 [souvenir718](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/souvenir718.md)
 * 🌱 [hyeyoon0808](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/hyeyoon0808.md)
 * 🌱 [lebcoco](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/lebcoco.md)
-* 🌱 [haterin](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/haterin.md)
+* 🌱 [hataerin](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-5%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/hataerin.md)
