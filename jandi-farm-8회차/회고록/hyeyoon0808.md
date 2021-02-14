@@ -4,7 +4,7 @@
 - 충전한만큼 달리자 ><
 
 
-### Goal of the week
+### Goal of this week
 - AWS 복습!!
 - 알고리즘 문제풀이
 - 영어 감 
