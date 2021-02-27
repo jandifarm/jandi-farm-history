@@ -5,6 +5,8 @@
 #### 📌 회고 : 2021.02.28 오전 10시
 
 #### 회고록
+----
+
 
 * 🌱 [ShimJaewook](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-10%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/ShimJaewook.md)
 * 🌱 [dalsomin](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-10%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/dalsomin.md)
@@ -17,4 +19,8 @@
 * 🌱 [souvenir718](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-10%ED%9A%8C%EC%B0%A8/%ED%9A%8C%EA%B3%A0%EB%A1%9D/souvenir718.md)
 
 #### 💰 벌금
+----
+[벌금 History](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-money.md)
+
+-
 
