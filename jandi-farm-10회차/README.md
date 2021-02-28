@@ -22,5 +22,5 @@
 ----
 [벌금 History](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-money.md)
 
--
-
+- dalsomin
+- lebcoco
