@@ -2,6 +2,8 @@
 
 ## 잔디 스크럼 기록
 
+#### [🌱 jandi-farm 13회차](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-13%ED%9A%8C%EC%B0%A8/README.md)
+
 #### [🌱 jandi-farm 12회차](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-12%ED%9A%8C%EC%B0%A8/README.md)
 
 #### [🌱 jandi-farm 11회차](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-11%ED%9A%8C%EC%B0%A8/README.md)
