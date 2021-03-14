@@ -1,4 +1,9 @@
 # jandi-farm-history
+#### [잔디 드라이브](https://drive.google.com/drive/folders/1GhJG2lU1eRsBmR0MYB2-RvXiMCAotxUd?usp=sharing)
+* 잔디드라이브 문서 목록
+  * 잔디 벌금 정산표 
+  * 잔디 신문고 
+  * 역대 잔디왕 기록문서
 
 ## 잔디 스크럼 기록
 
