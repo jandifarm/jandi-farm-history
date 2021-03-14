@@ -24,6 +24,5 @@
 ----
 [벌금 History](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-money.md)
 
-- 심재욱 - 10000
-- 정승훈 - 5000
-- 하태린 - 3000 (지각)
+- 심재욱 - 5000
+- 임근우 - 10000
