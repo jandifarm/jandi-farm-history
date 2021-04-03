@@ -5,6 +5,9 @@
   * 잔디 신문고 
   * 역대 잔디왕 기록문서
 
+#### 회의실
+https://gather.town/i/RBF9Toef
+
 ## 잔디 스크럼 기록
 
 #### [🌱 jandi-farm 15회차](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-15%ED%9A%8C%EC%B0%A8/README.md)
