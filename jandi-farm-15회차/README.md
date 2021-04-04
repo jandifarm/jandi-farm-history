@@ -23,5 +23,5 @@
 #### 💰 벌금
 ----
 [벌금 History](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-money.md)
-- 정승훈: 3000원
+- 정승훈: 5000원
 - 문소민: 5000원
