@@ -24,3 +24,6 @@
 ----
 [벌금 History](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-money.md)
 
+- 문소민 : 5000원
+- 임근우 : 5000원
+- 심재욱 ??
