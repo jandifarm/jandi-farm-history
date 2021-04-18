@@ -24,4 +24,4 @@
 ----
 [벌금 History](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-money.md)
 
-- 홍길동 : 0원
+- 벌금없음 ^0^
