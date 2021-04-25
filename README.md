@@ -11,7 +11,7 @@
 
 ## 잔디 스크럼 기록
 
-[🌱 jandi-farm 19회차](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-19%ED%9A%8C%EC%B0%A8/README.md)
+#### [🌱 jandi-farm 19회차](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-19%ED%9A%8C%EC%B0%A8/README.md)
 
 #### [🌱 jandi-farm 18회차](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-farm-18%ED%9A%8C%EC%B0%A8/README.md)
 
