@@ -26,4 +26,7 @@
 
 [벌금 History](https://github.com/jandifarm/jandi-farm-history/blob/master/jandi-money.md)
 
--
+- 재욱 : 5000원
+- 은별 : 5000원
+- 근우 : 5000원
+- 소민 : 10000원
